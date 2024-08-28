@@ -1,0 +1,29 @@
+
+.button{
+    color: #3750FF;   
+    font-family: 'Inter-SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 8px 16px 0px 0px;
+}
+
+.button span{
+    font-size: 24px;    
+    text-align: center;
+}
+    
+.button:active {
+    background-color: #E7F6F2;
+    box-shadow: 2px 2px 10px #b1b1b1;
+    transform: translateY(4px);
+}
+
+
+
+
+
+  
